@@ -1,12 +1,13 @@
- body	{
- 	background-color: #cd98ea;
- }
- 
- div	{
- 	backgound-color: #78c4c8;
- }
- 
- middle	{
- 
- }
+<style>
+#logo {
+     width: 82px;
+    margin-left: 830px;
+}
+#header {
+ padding:7.62px;
+ text-align: center;
+ color: #a3ddf2;
+ background-color: #a3ddf2;
+}
+</style>
  
