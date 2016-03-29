@@ -1,0 +1,21 @@
+ body	{
+ 	background-color: #b27ed8;
+ }
+ 
+ #trapezoid {
+	border-bottom: 100px solid #a3ddf2;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	height: 0;
+	width: 180px;
+	-webkit-transform: rotate(180deg);
+	text-align: center;
+	
+}
+
+hr	{
+	color: #a3ddf2;
+	background-color: black;
+}
+
+ 
