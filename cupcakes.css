@@ -1,13 +1,16 @@
-<style>
-#logo {
-     width: 82px;
-    margin-left: 830px;
-}
 #header {
- padding:7.62px;
+ padding:20px;
  text-align: center;
- color: #a3ddf2;
  background-color: #a3ddf2;
 }
-</style>
+#trapezoid {
+	border-bottom: 100px solid #a3ddf2;
+	border-left: 90px solid transparent;
+	border-right: 90px solid transparent;
+	height: 0;
+	width: 200px;
+	-webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+    transform: rotate(180deg);
+    }
+
  
