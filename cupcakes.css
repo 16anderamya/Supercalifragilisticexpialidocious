@@ -4,13 +4,14 @@
  background-color: #a3ddf2;
 }
 #trapezoid {
-	border-bottom: 100px solid #a3ddf2;
-	border-left: 90px solid transparent;
-	border-right: 90px solid transparent;
-	height: 0;
-	width: 200px;
-	-webkit-transform: rotate(180deg); /* Chrome, Safari, Opera */
+	border-bottom: 145px solid #a3ddf2;
+    border-left: 111px solid transparent;
+    border-right: 111px solid transparent;
+    height: 0px;
+    width: 238px;
+    -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
+    margin-left: 780px;
     }
 
  
