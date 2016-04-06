@@ -14,8 +14,18 @@
 }
 
 hr	{
-	color: #a3ddf2;
-	background-color: black;
+width:50%;
+}
+
+#pic	{
+	border-style: 10px solid #a49d6;
+	border-color: pink;
+	padding: 30px;
+	
+}
+
+div		{
+	text-align: center;
 }
 
  
